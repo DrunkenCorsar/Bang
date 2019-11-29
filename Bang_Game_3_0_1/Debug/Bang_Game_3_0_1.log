@@ -1,0 +1,4 @@
+﻿  Bang_Source.cpp
+c:\users\maksy\source\repos\bang_game_3_0_1\bang_game_3_0_1\bang_source.cpp(1324): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Bang_Game_3_0_1.vcxproj -> C:\Users\maksy\source\repos\Bang_Game_3_0_1\Debug\Bang_Game_3_0_1.exe
+  Bang_Game_3_0_1.vcxproj -> C:\Users\maksy\source\repos\Bang_Game_3_0_1\Debug\Bang_Game_3_0_1.pdb (Partial PDB)
